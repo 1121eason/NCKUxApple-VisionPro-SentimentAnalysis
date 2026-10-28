@@ -1,0 +1,578 @@
+[
+  {
+    "term": "蘋果",
+    "count": 9
+  },
+  {
+    "term": "pro",
+    "count": 6
+  },
+  {
+    "term": "遊戲",
+    "count": 6
+  },
+  {
+    "term": "vision",
+    "count": 5
+  },
+  {
+    "term": "內容",
+    "count": 4
+  },
+  {
+    "term": "裝置",
+    "count": 4
+  },
+  {
+    "term": "軟體",
+    "count": 4
+  },
+  {
+    "term": "apple",
+    "count": 3
+  },
+  {
+    "term": "vr",
+    "count": 3
+  },
+  {
+    "term": "價格",
+    "count": 3
+  },
+  {
+    "term": "市場",
+    "count": 3
+  },
+  {
+    "term": "應用",
+    "count": 3
+  },
+  {
+    "term": "硬體",
+    "count": 3
+  },
+  {
+    "term": "2c",
+    "count": 2
+  },
+  {
+    "term": "iphone",
+    "count": 2
+  },
+  {
+    "term": "visionpro",
+    "count": 2
+  },
+  {
+    "term": "功能",
+    "count": 2
+  },
+  {
+    "term": "娛樂",
+    "count": 2
+  },
+  {
+    "term": "定位",
+    "count": 2
+  },
+  {
+    "term": "實境",
+    "count": 2
+  },
+  {
+    "term": "小時",
+    "count": 2
+  },
+  {
+    "term": "影視",
+    "count": 2
+  },
+  {
+    "term": "技術",
+    "count": 2
+  },
+  {
+    "term": "投資人",
+    "count": 2
+  },
+  {
+    "term": "時候",
+    "count": 2
+  },
+  {
+    "term": "時間",
+    "count": 2
+  },
+  {
+    "term": "果粉",
+    "count": 2
+  },
+  {
+    "term": "消費",
+    "count": 2
+  },
+  {
+    "term": "深度",
+    "count": 2
+  },
+  {
+    "term": "環境",
+    "count": 2
+  },
+  {
+    "term": "產品",
+    "count": 2
+  },
+  {
+    "term": "畫面",
+    "count": 2
+  },
+  {
+    "term": "設備",
+    "count": 2
+  },
+  {
+    "term": "2b",
+    "count": 1
+  },
+  {
+    "term": "2w",
+    "count": 1
+  },
+  {
+    "term": "4k+hdr",
+    "count": 1
+  },
+  {
+    "term": "ai",
+    "count": 1
+  },
+  {
+    "term": "applevision3",
+    "count": 1
+  },
+  {
+    "term": "applevisionlite",
+    "count": 1
+  },
+  {
+    "term": "ar",
+    "count": 1
+  },
+  {
+    "term": "ar/mr",
+    "count": 1
+  },
+  {
+    "term": "a片",
+    "count": 1
+  },
+  {
+    "term": "disney+",
+    "count": 1
+  },
+  {
+    "term": "holo",
+    "count": 1
+  },
+  {
+    "term": "htc",
+    "count": 1
+  },
+  {
+    "term": "lens",
+    "count": 1
+  },
+  {
+    "term": "mix",
+    "count": 1
+  },
+  {
+    "term": "mr",
+    "count": 1
+  },
+  {
+    "term": "none",
+    "count": 1
+  },
+  {
+    "term": "out",
+    "count": 1
+  },
+  {
+    "term": "reality",
+    "count": 1
+  },
+  {
+    "term": "tv+",
+    "count": 1
+  },
+  {
+    "term": "xd",
+    "count": 1
+  },
+  {
+    "term": "世代",
+    "count": 1
+  },
+  {
+    "term": "世界",
+    "count": 1
+  },
+  {
+    "term": "主因",
+    "count": 1
+  },
+  {
+    "term": "主機",
+    "count": 1
+  },
+  {
+    "term": "主流",
+    "count": 1
+  },
+  {
+    "term": "位置",
+    "count": 1
+  },
+  {
+    "term": "供應商",
+    "count": 1
+  },
+  {
+    "term": "傻強",
+    "count": 1
+  },
+  {
+    "term": "價值",
+    "count": 1
+  },
+  {
+    "term": "公司",
+    "count": 1
+  },
+  {
+    "term": "利潤",
+    "count": 1
+  },
+  {
+    "term": "哀鳳",
+    "count": 1
+  },
+  {
+    "term": "售價",
+    "count": 1
+  },
+  {
+    "term": "宇宙",
+    "count": 1
+  },
+  {
+    "term": "家族",
+    "count": 1
+  },
+  {
+    "term": "工作",
+    "count": 1
+  },
+  {
+    "term": "平價版",
+    "count": 1
+  },
+  {
+    "term": "影像",
+    "count": 1
+  },
+  {
+    "term": "情況",
+    "count": 1
+  },
+  {
+    "term": "感覺",
+    "count": 1
+  },
+  {
+    "term": "手機",
+    "count": 1
+  },
+  {
+    "term": "手聲眼",
+    "count": 1
+  },
+  {
+    "term": "控制器",
+    "count": 1
+  },
+  {
+    "term": "搖桿",
+    "count": 1
+  },
+  {
+    "term": "效應",
+    "count": 1
+  },
+  {
+    "term": "效果",
+    "count": 1
+  },
+  {
+    "term": "文檔",
+    "count": 1
+  },
+  {
+    "term": "智商稅",
+    "count": 1
+  },
+  {
+    "term": "會議",
+    "count": 1
+  },
+  {
+    "term": "有錢人",
+    "count": 1
+  },
+  {
+    "term": "校準",
+    "count": 1
+  },
+  {
+    "term": "桌子",
+    "count": 1
+  },
+  {
+    "term": "概念",
+    "count": 1
+  },
+  {
+    "term": "機型",
+    "count": 1
+  },
+  {
+    "term": "消費者",
+    "count": 1
+  },
+  {
+    "term": "營收",
+    "count": 1
+  },
+  {
+    "term": "玩具",
+    "count": 1
+  },
+  {
+    "term": "現實",
+    "count": 1
+  },
+  {
+    "term": "生態圈",
+    "count": 1
+  },
+  {
+    "term": "生態系",
+    "count": 1
+  },
+  {
+    "term": "生活",
+    "count": 1
+  },
+  {
+    "term": "產量",
+    "count": 1
+  },
+  {
+    "term": "用戶",
+    "count": 1
+  },
+  {
+    "term": "畫素",
+    "count": 1
+  },
+  {
+    "term": "畫質",
+    "count": 1
+  },
+  {
+    "term": "疑問",
+    "count": 1
+  },
+  {
+    "term": "盤子",
+    "count": 1
+  },
+  {
+    "term": "眼動",
+    "count": 1
+  },
+  {
+    "term": "眼球",
+    "count": 1
+  },
+  {
+    "term": "神壇",
+    "count": 1
+  },
+  {
+    "term": "空間",
+    "count": 1
+  },
+  {
+    "term": "答案",
+    "count": 1
+  },
+  {
+    "term": "策略",
+    "count": 1
+  },
+  {
+    "term": "範圍",
+    "count": 1
+  },
+  {
+    "term": "精準度",
+    "count": 1
+  },
+  {
+    "term": "紗窗",
+    "count": 1
+  },
+  {
+    "term": "細節",
+    "count": 1
+  },
+  {
+    "term": "結果",
+    "count": 1
+  },
+  {
+    "term": "網頁",
+    "count": 1
+  },
+  {
+    "term": "缺點",
+    "count": 1
+  },
+  {
+    "term": "美盤",
+    "count": 1
+  },
+  {
+    "term": "習慣",
+    "count": 1
+  },
+  {
+    "term": "耳廓",
+    "count": 1
+  },
+  {
+    "term": "能力",
+    "count": 1
+  },
+  {
+    "term": "興趣",
+    "count": 1
+  },
+  {
+    "term": "艾維斯",
+    "count": 1
+  },
+  {
+    "term": "視訊",
+    "count": 1
+  },
+  {
+    "term": "視野",
+    "count": 1
+  },
+  {
+    "term": "訂價",
+    "count": 1
+  },
+  {
+    "term": "設計",
+    "count": 1
+  },
+  {
+    "term": "貢獻",
+    "count": 1
+  },
+  {
+    "term": "資訊",
+    "count": 1
+  },
+  {
+    "term": "超香",
+    "count": 1
+  },
+  {
+    "term": "身旁",
+    "count": 1
+  },
+  {
+    "term": "軍火",
+    "count": 1
+  },
+  {
+    "term": "轉捩點",
+    "count": 1
+  },
+  {
+    "term": "追蹤",
+    "count": 1
+  },
+  {
+    "term": "速度",
+    "count": 1
+  },
+  {
+    "term": "過程",
+    "count": 1
+  },
+  {
+    "term": "開發商",
+    "count": 1
+  },
+  {
+    "term": "閒錢",
+    "count": 1
+  },
+  {
+    "term": "隱私",
+    "count": 1
+  },
+  {
+    "term": "雙晶片",
+    "count": 1
+  },
+  {
+    "term": "雞肋",
+    "count": 1
+  },
+  {
+    "term": "靈敏度",
+    "count": 1
+  },
+  {
+    "term": "非專業型",
+    "count": 1
+  },
+  {
+    "term": "音頻",
+    "count": 1
+  },
+  {
+    "term": "頭盔",
+    "count": 1
+  },
+  {
+    "term": "顆粒",
+    "count": 1
+  },
+  {
+    "term": "顧客",
+    "count": 1
+  },
+  {
+    "term": "體驗",
+    "count": 1
+  }
+]

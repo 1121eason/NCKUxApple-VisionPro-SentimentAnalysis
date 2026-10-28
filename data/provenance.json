@@ -1,0 +1,31 @@
+{
+  "snapshot_date": "2026-10-28",
+  "historical_year": 2023,
+  "author": "李奕成 Eason",
+  "report_pages": 11,
+  "original_report_sha256": "61e1c2a5b87fce826932ecbf1449d68244d5fa89e7488cc65de203983d40f274",
+  "historical_score_sheet": "'3. Analyze Data_資料分析_Text Sentiment Analysis'!A1:K1010",
+  "historical_token_sheet": "'3. Analyze Data_資料分析_Word Cloud-2'!A1:F1077",
+  "collection_text_rows": 81,
+  "scored_rows": 80,
+  "text_present_rows": 72,
+  "empty_labeled_rows": [
+    38,
+    44,
+    59,
+    68,
+    72,
+    73,
+    74,
+    77
+  ],
+  "excluded_summary_cell": "K82",
+  "original_report_publication": "Original PDF and full corpus remain in local private archive; public case-study PDF is newly authored.",
+  "historical_crawler_source": "Not recovered; PTT extraction tabs hold static values, not IMPORTXML formulas.",
+  "source_assignment": "Text matched against original collection tab, including one two-row merge; empty rows use block context only.",
+  "historical_token_count": 1001,
+  "snapshot_inputs": {
+    "scores_sha256": "485d64fa7c2b0bcc5eb26a61bbc369459a7d4de945428a946032deac481521c8",
+    "token_counts_sha256": "e2008dd86c9f2b606c8b273951f1b6b750606c6b0fbfb458ca20a6c0e3d3fce9"
+  }
+}

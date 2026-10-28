@@ -1,0 +1,221 @@
+{
+  "all_stored_labels": {
+    "n": 80,
+    "counts": {
+      "positive": 42,
+      "neutral": 9,
+      "negative": 29
+    },
+    "percent": {
+      "positive": 52.5,
+      "neutral": 11.25,
+      "negative": 36.25
+    },
+    "mean_score": 0.5003424875,
+    "mean_score_by_label": {
+      "positive": 0.6904475476190476,
+      "neutral": 0.5461187777777778,
+      "negative": 0.2108114827586207
+    }
+  },
+  "text_present_only": {
+    "n": 72,
+    "counts": {
+      "positive": 34,
+      "neutral": 9,
+      "negative": 29
+    },
+    "percent": {
+      "positive": 47.222222,
+      "neutral": 12.5,
+      "negative": 40.277778
+    },
+    "mean_score": 0.48248054166666665,
+    "mean_score_by_label": {
+      "positive": 0.6973528529411764,
+      "neutral": 0.5461187777777778,
+      "negative": 0.2108114827586207
+    }
+  },
+  "excluded_empty_text": {
+    "n": 8,
+    "record_ids": [
+      "VP037",
+      "VP043",
+      "VP058",
+      "VP067",
+      "VP071",
+      "VP072",
+      "VP073",
+      "VP076"
+    ],
+    "sheet_rows": [
+      38,
+      44,
+      59,
+      68,
+      72,
+      73,
+      74,
+      77
+    ],
+    "scores": [
+      0.6611
+    ]
+  },
+  "by_source_text_present": {
+    "S01": {
+      "n": 7,
+      "counts": {
+        "positive": 5,
+        "neutral": 1,
+        "negative": 1
+      },
+      "percent": {
+        "positive": 71.428571,
+        "neutral": 14.285714,
+        "negative": 14.285714
+      },
+      "mean_score": 0.6253378571428572,
+      "mean_score_by_label": {
+        "positive": 0.6751574,
+        "neutral": 0.576715,
+        "negative": 0.424863
+      }
+    },
+    "S02": {
+      "n": 7,
+      "counts": {
+        "positive": 4,
+        "neutral": 2,
+        "negative": 1
+      },
+      "percent": {
+        "positive": 57.142857,
+        "neutral": 28.571429,
+        "negative": 14.285714
+      },
+      "mean_score": 0.6012534285714286,
+      "mean_score_by_label": {
+        "positive": 0.70799825,
+        "neutral": 0.530379,
+        "negative": 0.316023
+      }
+    },
+    "S03": {
+      "n": 7,
+      "counts": {
+        "positive": 1,
+        "neutral": 0,
+        "negative": 6
+      },
+      "percent": {
+        "positive": 14.285714,
+        "neutral": 0.0,
+        "negative": 85.714286
+      },
+      "mean_score": 0.31479714285714283,
+      "mean_score_by_label": {
+        "positive": 0.743817,
+        "neutral": null,
+        "negative": 0.24329383333333332
+      }
+    },
+    "S04": {
+      "n": 2,
+      "counts": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 1
+      },
+      "percent": {
+        "positive": 0.0,
+        "neutral": 50.0,
+        "negative": 50.0
+      },
+      "mean_score": 0.4178175,
+      "mean_score_by_label": {
+        "positive": null,
+        "neutral": 0.476184,
+        "negative": 0.359451
+      }
+    },
+    "S05": {
+      "n": 7,
+      "counts": {
+        "positive": 6,
+        "neutral": 0,
+        "negative": 1
+      },
+      "percent": {
+        "positive": 85.714286,
+        "neutral": 0.0,
+        "negative": 14.285714
+      },
+      "mean_score": 0.6524284285714286,
+      "mean_score_by_label": {
+        "positive": 0.693202,
+        "neutral": null,
+        "negative": 0.407787
+      }
+    },
+    "S06": {
+      "n": 33,
+      "counts": {
+        "positive": 16,
+        "neutral": 4,
+        "negative": 13
+      },
+      "percent": {
+        "positive": 48.484848,
+        "neutral": 12.121212,
+        "negative": 39.393939
+      },
+      "mean_score": 0.46178630303030305,
+      "mean_score_by_label": {
+        "positive": 0.699568125,
+        "neutral": 0.5682750000000001,
+        "negative": 0.13636600000000001
+      }
+    },
+    "S07": {
+      "n": 7,
+      "counts": {
+        "positive": 2,
+        "neutral": 0,
+        "negative": 5
+      },
+      "percent": {
+        "positive": 28.571429,
+        "neutral": 0.0,
+        "negative": 71.428571
+      },
+      "mean_score": 0.333492,
+      "mean_score_by_label": {
+        "positive": 0.703049,
+        "neutral": null,
+        "negative": 0.1856692
+      }
+    },
+    "S08": {
+      "n": 2,
+      "counts": {
+        "positive": 0,
+        "neutral": 1,
+        "negative": 1
+      },
+      "percent": {
+        "positive": 0.0,
+        "neutral": 50.0,
+        "negative": 50.0
+      },
+      "mean_score": 0.486427,
+      "mean_score_by_label": {
+        "positive": null,
+        "neutral": 0.528312,
+        "negative": 0.444542
+      }
+    }
+  },
+  "scope": "Recomputation of stored 2023 labels. Not a new model run, accuracy estimate, or representative market survey."
+}
